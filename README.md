@@ -8,8 +8,6 @@
 
 Welcome to my **HH2026 Cybersecurity Case Study Series**, where I document my learning journey through the TryHackMe Hacktivity Hunt 2026 event.
 
-Unlike traditional CTF write-ups, these are written as **professional cybersecurity case studies** that focus on investigation methodology, security analysis, and defensive learning rather than providing walkthroughs or challenge solutions.
-
 ---
 
 ## 🎯 Objectives

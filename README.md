@@ -22,11 +22,12 @@ This repository documents my learning journey through the **TryHackMe Hacker Hol
 
 ---
 
-# 📂 Case Studies
+## 📂 Case Studies
 
-| # | Room | Primary Topics | Status |
-|---|------|----------------|--------|
-| 01 | [The Concierge Knows Too Much](HH2026-CS01-The-Concierge-Knows-Too-Much/) | AI Security • Prompt Injection • Social Engineering • LLM Authorization | ✅ Completed |
+| # | Room | Category | Status |
+|---|------|----------|--------|
+| 01 | The Concierge Knows Too Much | AI Security • Prompt Injection • LLM Authorization | ✅ Completed |
+| 02 | Room 404 | Web Security • Directory Enumeration • Git Exposure | ✅ Completed |
 
 ---
 

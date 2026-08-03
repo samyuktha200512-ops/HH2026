@@ -1,4 +1,4 @@
-# 🌐 HH2026 – The Hidden Repository
+# 🌐 HH2026 – Room 404
 
 ![Web Security](https://img.shields.io/badge/Web%20Security-blue?style=for-the-badge)
 ![Directory Enumeration](https://img.shields.io/badge/Directory%20Enumeration-orange?style=for-the-badge)

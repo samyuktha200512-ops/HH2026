@@ -38,6 +38,7 @@ Each repository focuses on understanding the vulnerability, analyzing the root c
 | CS01 | The Concierge Knows Too Much | Web Security | Information Disclosure | ✅ Completed |
 | CS02 | The Hidden Repository | Source Code Security | Exposed Git Repository | ✅ Completed |
 | CS03 | Complimentary | Cloud Security | AWS Cognito, IAM Misconfiguration, Broken Access Control | ✅ Completed |
+| CS04 | Packed Light | Network Forensics | Wireshark, PCAP Analysis, HTTP Traffic Analysis, Malware Traffic Analysis, Base64 Decoding, XOR Cryptanalysis | ✅ Completed |
 
 ---
 
@@ -71,6 +72,20 @@ Each repository focuses on understanding the vulnerability, analyzing the root c
 - Business Impact Assessment
 - Technical Documentation
 - Security Reporting
+
+### 🌐 Network Security
+- Wireshark
+- Packet Capture (PCAP) Analysis
+- HTTP Traffic Analysis
+- TCP Stream Analysis
+- HTTP Object Extraction
+
+### 🔬 Malware Analysis
+- Python Code Review
+- Malware Traffic Analysis
+- Covert Channel Detection
+- Base64 Decoding
+- XOR Cryptanalysis
 
 ---
 

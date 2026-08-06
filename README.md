@@ -1,71 +1,133 @@
-# 🛡️ HH2026 – Hacker Holidays 2026 Case Studies
+# 🛡️ HH2026 – Cybersecurity Case Study Portfolio
 
-![Documentation](https://img.shields.io/badge/Documentation-Markdown-blue)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-darkgreen)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-HH2026-red)
-![Case Study](https://img.shields.io/badge/Series-Case%20Studies-black)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+<p align="center">
 
-Welcome to my **HH2026 (Hacker Holidays 2026)** case study repository.
+![HH2026](https://img.shields.io/badge/HH2026-Portfolio-success?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web-Security-orange?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-0F766E?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Hands--On-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge)
 
-This repository documents my learning journey through the **TryHackMe Hacker Holidays 2026** event. Rather than publishing traditional challenge walkthroughs, I document each room as a concise **case study**, focusing on the security concepts, techniques, and lessons learned while respecting the integrity of the event.
+</p>
 
 ---
 
-# 🎯 Objectives
+## 📖 Overview
+
+Welcome to my **HH2026 Cybersecurity Portfolio**, where I document practical hands-on security assessments completed as part of the HH2026 challenge series.
+
+Each repository focuses on understanding the vulnerability, analyzing the root cause, assessing the business impact, and documenting the lessons learned rather than simply providing walkthroughs.
+
+---
+
+# 📌 Objectives
 
 - Strengthen practical cybersecurity skills
-- Learn offensive security concepts through hands-on challenges
+- Learn secure web and cloud architectures
+- Improve vulnerability analysis and reporting
 - Build a professional cybersecurity portfolio
-- Improve technical documentation and communication
-- Share my learning journey with the cybersecurity community
+- Prepare for internships and cybersecurity roles
 
 ---
 
-## 📂 Case Studies
+# 📂 Case Study Progress
 
-| # | Room | Category | Status |
-|---|------|----------|--------|
-| 01 | The Concierge Knows Too Much | AI Security • Prompt Injection • LLM Authorization | ✅ Completed |
-| 02 | Room 404 | Web Security • Directory Enumeration • Git Exposure | ✅ Completed |
+| # | Case Study | Category | Key Concepts | Status |
+|---|------------|----------|--------------|--------|
+| CS01 | The Concierge Knows Too Much | Web Security | Information Disclosure | ✅ Completed |
+| CS02 | The Hidden Repository | Source Code Security | Exposed Git Repository | ✅ Completed |
+| CS03 | Complimentary | Cloud Security | AWS Cognito, IAM Misconfiguration, Broken Access Control | ✅ Completed |
 
 ---
 
 # 🛠️ Skills Practiced
 
-- AI Security
-- Prompt Injection
-- Social Engineering
-- LLM Security
-- Critical Thinking
-- Security Concepts
+## 🌐 Web Security
+
+- Information Disclosure
+- Client-side Source Code Analysis
+- Git Repository Exposure
+- Sensitive Information Discovery
+
+## ☁️ Cloud Security
+
+- AWS Cognito Identity Pools
+- AWS Security Token Service (STS)
+- AWS Identity and Access Management (IAM)
+- Amazon DynamoDB
+- Temporary AWS Credentials
+- Cloud Permission Analysis
+- Broken Access Control
+- Principle of Least Privilege
+- IAM Misconfiguration
+
+## 🔎 Security Assessment
+
+- Enumeration
+- Cloud Resource Discovery
+- Vulnerability Analysis
+- Root Cause Analysis
+- Business Impact Assessment
 - Technical Documentation
-- Cybersecurity Research
+- Security Reporting
 
 ---
 
-# ⚠️ Disclaimer
+# 🎯 Current Learning Roadmap
 
-These case studies are created **for educational purposes only**.
+- HH2026 Practical Labs
+- TryHackMe
+- Cybersecurity 101
+- Networking Fundamentals
+- Linux Fundamentals
+- Cloud Security
+- Active Directory
+- Capture The Flag (CTF)
 
-To respect the integrity of the **TryHackMe Hacker Holidays 2026** event, this repository **does not include flags, hidden prompts, exploit payloads, complete solutions, or step-by-step walkthroughs**.
+---
 
-The focus is on understanding the underlying security concepts, attack techniques, and lessons learned from each room.
+# 📈 Portfolio Goals
+
+This repository documents my journey toward becoming a cybersecurity professional through practical labs, real-world security concepts, and structured case studies.
+
+My focus is on continuously improving my offensive and defensive security knowledge while building a portfolio that demonstrates practical cybersecurity experience.
+
+---
+
+# 📚 Repository Structure
+
+```text
+HH2026
+│
+├── HH2026-CS01-The-Concierge-Knows-Too-Much
+├── HH2026-CS02-The-Hidden-Repository
+├── HH2026-CS03-Complimentary
+│
+└── README.md
+```
+
+---
+
+# 🚀 Current Progress
+
+- ✅ 3 HH2026 Case Studies Completed
+- ✅ Web Security
+- ✅ Cloud Security
+- ✅ Git Exposure Analysis
+- ✅ AWS IAM Assessment
+- 🔄 Continuing Practical Labs Daily
 
 ---
 
 # 👩‍💻 Author
 
-**Samyuktha S**
+**Samyuktha Saravanan**
 
-- 🔗 **GitHub:** https://github.com/samyuktha200512-ops
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/samyuktha-s-5b0393296/
-- 🔗 **TryHackMe:** https://tryhackme.com/p/samyuktha.200512
+Cybersecurity Learner • Cloud Security • TryHackMe • HH2026 Participant
+
+🔗 GitHub: https://github.com/samyuktha200512-ops
 
 ---
 
-## 🚀 Follow the Journey
-
-New HH2026 case studies will be added as I progress through the event.
-
-**Learn • Hack • Document • Improve**
+> *This repository is intended for educational purposes and documents my practical cybersecurity learning journey through hands-on labs and case studies.*

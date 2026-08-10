@@ -25,7 +25,7 @@ Welcome to my **HH2026 Cybersecurity Portfolio**, where I document practical, ha
 
 This repository focuses on understanding vulnerabilities, analyzing root causes, assessing business impact, and documenting lessons learned instead of simply publishing walkthroughs.
 
-Each case study represents a practical cybersecurity scenario that strengthens both technical knowledge and reporting skills.
+Each case study represents a practical cybersecurity scenario that strengthens both technical knowledge and professional security reporting skills.
 
 ---
 
@@ -42,12 +42,13 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 # 📂 HH2026 Case Studies
 
 | Case Study | Category | Key Concepts | Status |
-|------------|----------|--------------|--------|
+|---|---|---|---|
 | **CS01 – The Concierge Knows Too Much** | Web Security | Information Disclosure | ✅ Completed |
 | **CS02 – The Hidden Repository** | Source Code Security | Exposed Git Repository | ✅ Completed |
 | **CS03 – Complimentary** | Cloud Security | AWS Cognito, IAM Misconfiguration, Broken Access Control | ✅ Completed |
 | **CS04 – Packed Light** | Network Forensics | Wireshark, PCAP Analysis, HTTP Traffic Analysis, Malware Analysis | ✅ Completed |
 | **CS05 – Beach Bar** | Linux Privilege Escalation | Linux Enumeration, Flask Web App Analysis, Systemd Services, Reverse Shell, Privilege Escalation | ✅ Completed |
+| **CS06 – Overheard at Breakfast** | OSINT | Email Enumeration, Gravatar, MD5, Base64, Identity Correlation | ✅ Completed |
 
 ---
 
@@ -110,9 +111,23 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 ---
 
+## 🕵️ OSINT
+
+- Open Source Intelligence
+- Email Enumeration
+- Identity Correlation
+- MD5 Hash Analysis
+- Gravatar Enumeration
+- Base64 Decoding
+- Search Engine Intelligence Gathering
+- Information Correlation
+
+---
+
 ## 📄 Security Assessment
 
 - Enumeration
+- Intelligence Gathering
 - Vulnerability Discovery
 - Root Cause Analysis
 - Risk Assessment
@@ -127,6 +142,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Kali Linux
 - Wireshark
 - Burp Suite
+- Gobuster
 - Git
 - AWS CLI
 - Linux Command Line
@@ -135,6 +151,10 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Systemctl
 - Netcat
 - Bash
+- MD5
+- Gravatar
+- Base64
+- Search Engines
 - GitHub
 
 ---
@@ -157,7 +177,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 # 🚀 Current Progress
 
-- ✅ 5 HH2026 Case Studies Completed
+- ✅ 6 HH2026 Case Studies Completed
 - ✅ Web Security
 - ✅ Cloud Security
 - ✅ Source Code Security
@@ -166,6 +186,8 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - ✅ Git Exposure Analysis
 - ✅ AWS IAM Assessment
 - ✅ Linux Enumeration & Systemd Analysis
+- ✅ OSINT Investigation
+- ✅ Email & Identity Correlation
 - 🔄 Continuing Practical Labs Daily
 
 ---
@@ -173,8 +195,8 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 ## 📊 Progress Snapshot
 
 | Category | Status |
-|----------|--------|
-| HH2026 Case Studies | ✅ 5 Completed |
+|---|---|
+| HH2026 Case Studies | ✅ 6 Completed |
 | Web Security | ✅ |
 | Cloud Security | ✅ |
 | Source Code Security | ✅ |
@@ -183,6 +205,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 | Git Exposure Analysis | ✅ |
 | AWS IAM Assessment | ✅ |
 | Linux Enumeration | ✅ |
+| OSINT | ✅ |
 | Practical Labs | 🔄 Ongoing |
 | GitHub Portfolio | 🔄 Growing |
 | LinkedIn Project Posts | 🔄 Ongoing |
@@ -204,7 +227,10 @@ HH2026/
 │
 ├── HH2026-CS05-Beach-Bar/
 │
+├── HH2026-CS06-Overheard-at-Breakfast/
+│
 └── README.md
+
 ```
 
 ---

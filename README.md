@@ -1,21 +1,13 @@
 # 🛡️ HH2026 – Cybersecurity Case Study Portfolio
 
-<div align="center">
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-HH2026-red?style=for-the-badge&logo=tryhackme)
-![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Network](https://img.shields.io/badge/Network-Forensics-0078D4?style=for-the-badge&logo=wireshark)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Hacker%20Holidays%202026-red?style=for-the-badge&logo=tryhackme)
+![Case Studies](https://img.shields.io/badge/Case%20Studies-7%20Completed-success?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0f6f6a?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web%20Security-Active-blue?style=for-the-badge)
+![Linux Security](https://img.shields.io/badge/Linux%20Security-Active-orange?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Active-8A2BE2?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-Active-008080?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
-
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Case Studies](https://img.shields.io/badge/Case_Studies-5-blue)
-![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)
-![Learning](https://img.shields.io/badge/Learning-Daily-brightgreen)
-![License](https://img.shields.io/badge/License-Educational-blueviolet)
-
-</div>
 
 ---
 
@@ -23,7 +15,7 @@
 
 Welcome to my **HH2026 Cybersecurity Portfolio**, where I document practical, hands-on cybersecurity assessments completed through the **HH2026 challenge series** on TryHackMe.
 
-This repository focuses on understanding vulnerabilities, analyzing root causes, assessing business impact, and documenting lessons learned instead of simply publishing walkthroughs.
+This repository focuses on understanding vulnerabilities, analyzing root causes, assessing security impact, and documenting lessons learned instead of simply publishing walkthroughs.
 
 Each case study represents a practical cybersecurity scenario that strengthens both technical knowledge and professional security reporting skills.
 
@@ -47,8 +39,9 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 | **CS02 – The Hidden Repository** | Source Code Security | Exposed Git Repository | ✅ Completed |
 | **CS03 – Complimentary** | Cloud Security | AWS Cognito, IAM Misconfiguration, Broken Access Control | ✅ Completed |
 | **CS04 – Packed Light** | Network Forensics | Wireshark, PCAP Analysis, HTTP Traffic Analysis, Malware Analysis | ✅ Completed |
-| **CS05 – Beach Bar** | Linux Privilege Escalation | Linux Enumeration, Flask Web App Analysis, Systemd Services, Reverse Shell, Privilege Escalation | ✅ Completed |
+| **CS05 – Beach Bar** | Linux Privilege Escalation | Linux Enumeration, Flask Web App, Systemd, Reverse Shell, Privilege Escalation | ✅ Completed |
 | **CS06 – Overheard at Breakfast** | OSINT | Email Enumeration, Gravatar, MD5, Base64, Identity Correlation | ✅ Completed |
+| **CS07 – Do Not Disturb** | Web Security / Linux Privilege Escalation | NoSQL Injection, EJS SSTI, Command Execution, Node.js Inspector, Privilege Escalation | ✅ Completed |
 
 ---
 
@@ -61,6 +54,12 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Git Repository Exposure
 - Sensitive Information Discovery
 - Authentication & Session Analysis
+- NoSQL Injection
+- Authentication Bypass
+- Server-Side Template Injection (SSTI)
+- EJS Security
+- Node.js Security
+- Command Execution
 
 ---
 
@@ -85,8 +84,10 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Service Enumeration
 - Systemd Service Analysis
 - Process Enumeration
-- Reverse Shell Techniques
 - Privilege Escalation Methodology
+- Filesystem Analysis
+- Debugger/Inspector Enumeration
+- Root Privilege Escalation
 
 ---
 
@@ -134,23 +135,31 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Business Impact Analysis
 - Security Documentation
 - Professional Reporting
+- Attack Chain Analysis
+- Privilege Escalation Analysis
 
 ---
 
 # 🧰 Tools Used
 
 - Kali Linux
-- Wireshark
-- Burp Suite
+- Nmap
 - Gobuster
+- Burp Suite
+- Wireshark
 - Git
 - AWS CLI
 - Linux Command Line
 - Python
 - Flask
+- Node.js
+- EJS
 - Systemctl
 - Netcat
 - Bash
+- Curl
+- Node.js Inspector
+- debugfs
 - MD5
 - Gravatar
 - Base64
@@ -177,7 +186,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 # 🚀 Current Progress
 
-- ✅ 6 HH2026 Case Studies Completed
+- ✅ **7 HH2026 Case Studies Completed**
 - ✅ Web Security
 - ✅ Cloud Security
 - ✅ Source Code Security
@@ -188,6 +197,10 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - ✅ Linux Enumeration & Systemd Analysis
 - ✅ OSINT Investigation
 - ✅ Email & Identity Correlation
+- ✅ NoSQL Injection
+- ✅ EJS SSTI
+- ✅ Node.js Security
+- ✅ Node.js Inspector Enumeration
 - 🔄 Continuing Practical Labs Daily
 
 ---
@@ -196,7 +209,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 | Category | Status |
 |---|---|
-| HH2026 Case Studies | ✅ 6 Completed |
+| HH2026 Case Studies | ✅ 7 Completed |
 | Web Security | ✅ |
 | Cloud Security | ✅ |
 | Source Code Security | ✅ |
@@ -206,6 +219,9 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 | AWS IAM Assessment | ✅ |
 | Linux Enumeration | ✅ |
 | OSINT | ✅ |
+| NoSQL Injection | ✅ |
+| SSTI | ✅ |
+| Node.js Security | ✅ |
 | Practical Labs | 🔄 Ongoing |
 | GitHub Portfolio | 🔄 Growing |
 | LinkedIn Project Posts | 🔄 Ongoing |
@@ -229,8 +245,9 @@ HH2026/
 │
 ├── HH2026-CS06-Overheard-at-Breakfast/
 │
+├── HH2026-CS07-Do-Not-Disturb/
+│
 └── README.md
-
 ```
 
 ---
@@ -245,7 +262,9 @@ My focus is on continuously improving my:
 - Defensive Security Knowledge
 - Linux Administration
 - Cloud Security
+- Web Application Security
 - OSINT
+- Network Security
 - Security Documentation
 - Incident Investigation
 - Practical Problem Solving
@@ -264,6 +283,7 @@ Current focus areas include:
 - Cloud Security
 - Linux Security
 - Network Security
+- Web Application Security
 - OSINT
 
 ---
@@ -283,17 +303,19 @@ Current focus areas include:
 
 ## **Samyuktha Saravanan**
 
-Cybersecurity Learner | Linux Security | Cloud Security | Network Security | TryHackMe | HH2026 Participant
+Cybersecurity Learner | Linux Security | Cloud Security | Network Security | Web Security | OSINT | TryHackMe | HH2026 Participant
 
 ### 🔗 Connect with Me
 
 - 💻 GitHub: https://github.com/samyuktha200512-ops
-- 💼 LinkedIn: (https://www.linkedin.com/in/samyuktha-s-5b0393296/)
+- 💼 LinkedIn: *(Add your LinkedIn URL here)*
 
 ---
 
 > **Disclaimer**
 >
-> This repository is created for **educational purposes only**.
-> All case studies are based on intentionally vulnerable laboratory environments provided for cybersecurity learning.
-> No real-world systems were targeted.
+> This repository is created for **educational purposes only**. All case studies are based on intentionally vulnerable laboratory environments provided for cybersecurity learning. No real-world systems were targeted.
+
+---
+
+> *Part of my Hacker Holidays 2026 cybersecurity portfolio documenting practical hands-on investigations and professional case studies.*

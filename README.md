@@ -245,6 +245,7 @@ My focus is on continuously improving my:
 - Defensive Security Knowledge
 - Linux Administration
 - Cloud Security
+- OSINT
 - Security Documentation
 - Incident Investigation
 - Practical Problem Solving
@@ -263,6 +264,7 @@ Current focus areas include:
 - Cloud Security
 - Linux Security
 - Network Security
+- OSINT
 
 ---
 
@@ -286,7 +288,7 @@ Cybersecurity Learner | Linux Security | Cloud Security | Network Security | Try
 ### 🔗 Connect with Me
 
 - 💻 GitHub: https://github.com/samyuktha200512-ops
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/samyuktha-s-5b0393296/)
 
 ---
 

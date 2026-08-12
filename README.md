@@ -1,13 +1,13 @@
 # 🛡️ HH2026 – Cybersecurity Case Study Portfolio
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Hacker%20Holidays%202026-red?style=for-the-badge&logo=tryhackme)
-![Case Studies](https://img.shields.io/badge/Case%20Studies-7%20Completed-success?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0f6f6a?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-Active-blue?style=for-the-badge)
-![Linux Security](https://img.shields.io/badge/Linux%20Security-Active-orange?style=for-the-badge)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Active-8A2BE2?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-Active-008080?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-HH2026-red?logo=tryhackme&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-black)
+![Web Security](https://img.shields.io/badge/Web%20Security-Active-blue)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-AWS-orange?logo=amazonaws&logoColor=white)
+![Linux Security](https://img.shields.io/badge/Linux-Security-yellow?logo=linux&logoColor=black)
+![Network Security](https://img.shields.io/badge/Network-Security-green)
+![OSINT](https://img.shields.io/badge/OSINT-Investigation-purple)
+![Case Studies](https://img.shields.io/badge/Case%20Studies-8%20Completed-brightgreen)
 
 ---
 
@@ -42,6 +42,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 | **CS05 – Beach Bar** | Linux Privilege Escalation | Linux Enumeration, Flask Web App, Systemd, Reverse Shell, Privilege Escalation | ✅ Completed |
 | **CS06 – Overheard at Breakfast** | OSINT | Email Enumeration, Gravatar, MD5, Base64, Identity Correlation | ✅ Completed |
 | **CS07 – Do Not Disturb** | Web Security / Linux Privilege Escalation | NoSQL Injection, EJS SSTI, Command Execution, Node.js Inspector, Privilege Escalation | ✅ Completed |
+| **CS08 – Towel on the Sunbed** | Web Security | Business Logic, API Abuse, Burp Suite, Client/Server Trust, Reward Manipulation | ✅ Completed |
 
 ---
 
@@ -60,6 +61,12 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - EJS Security
 - Node.js Security
 - Command Execution
+- Business Logic Testing
+- API Security
+- HTTP Request Analysis
+- Client/Server Trust Analysis
+- Reward Mechanism Testing
+- Replay Testing
 
 ---
 
@@ -137,6 +144,9 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Professional Reporting
 - Attack Chain Analysis
 - Privilege Escalation Analysis
+- Business Logic Analysis
+- API Abuse Analysis
+- Client/Server Trust Assessment
 
 ---
 
@@ -146,6 +156,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Nmap
 - Gobuster
 - Burp Suite
+- Burp Suite Repeater
 - Wireshark
 - Git
 - AWS CLI
@@ -165,6 +176,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Base64
 - Search Engines
 - GitHub
+- Browser Developer Tools
 
 ---
 
@@ -186,7 +198,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 # 🚀 Current Progress
 
-- ✅ **7 HH2026 Case Studies Completed**
+- ✅ **8 HH2026 Case Studies Completed**
 - ✅ Web Security
 - ✅ Cloud Security
 - ✅ Source Code Security
@@ -201,15 +213,18 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - ✅ EJS SSTI
 - ✅ Node.js Security
 - ✅ Node.js Inspector Enumeration
+- ✅ Business Logic Testing
+- ✅ API Security
+- ✅ Client/Server Trust Analysis
 - 🔄 Continuing Practical Labs Daily
 
 ---
 
-## 📊 Progress Snapshot
+# 📊 Progress Snapshot
 
 | Category | Status |
 |---|---|
-| HH2026 Case Studies | ✅ 7 Completed |
+| HH2026 Case Studies | ✅ 8 Completed |
 | Web Security | ✅ |
 | Cloud Security | ✅ |
 | Source Code Security | ✅ |
@@ -222,6 +237,8 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 | NoSQL Injection | ✅ |
 | SSTI | ✅ |
 | Node.js Security | ✅ |
+| Business Logic | ✅ |
+| API Security | ✅ |
 | Practical Labs | 🔄 Ongoing |
 | GitHub Portfolio | 🔄 Growing |
 | LinkedIn Project Posts | 🔄 Ongoing |
@@ -247,6 +264,8 @@ HH2026/
 │
 ├── HH2026-CS07-Do-Not-Disturb/
 │
+├── HH2026-CS08-Towel-on-the-Sunbed/
+│
 └── README.md
 ```
 
@@ -265,6 +284,8 @@ My focus is on continuously improving my:
 - Web Application Security
 - OSINT
 - Network Security
+- API Security
+- Business Logic Testing
 - Security Documentation
 - Incident Investigation
 - Practical Problem Solving
@@ -284,6 +305,8 @@ Current focus areas include:
 - Linux Security
 - Network Security
 - Web Application Security
+- API Security
+- Business Logic Security
 - OSINT
 
 ---

@@ -2,7 +2,7 @@
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-HH2026-red?logo=tryhackme&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-black)
-![Web Security](https://img.shields.io/badge/Web%20Security-Active-blue)
+![Web Security](https://img.shields.io/badge/Web%20Security-Completed-blue)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-AWS-orange?logo=amazonaws&logoColor=white)
 ![Linux Security](https://img.shields.io/badge/Linux-Security-yellow?logo=linux&logoColor=black)
 ![Network Security](https://img.shields.io/badge/Network-Security-green)
@@ -11,27 +11,37 @@
 
 ---
 
-# 📖 Overview
+## 📖 Overview
 
-Welcome to my **HH2026 Cybersecurity Portfolio**, where I document practical, hands-on cybersecurity assessments completed through the **HH2026 challenge series** on TryHackMe.
+Welcome to my **HH2026 Cybersecurity Portfolio**, documenting eight practical cybersecurity case studies completed through the HH2026 challenge series on TryHackMe.
 
-This repository focuses on understanding vulnerabilities, analyzing root causes, assessing security impact, and documenting lessons learned instead of simply publishing walkthroughs.
+This repository focuses on understanding vulnerabilities, analyzing root causes, assessing security impact, and documenting technical findings rather than simply publishing walkthroughs.
 
-Each case study represents a practical cybersecurity scenario that strengthens both technical knowledge and professional security reporting skills.
+The case studies cover web application security, cloud security, Linux privilege escalation, network forensics, OSINT, and API security.
+
+The challenge is completed, and I have also received the HH2026 completion certificate.
+
+## 🎯 Objectives
+
+- Strengthen practical cybersecurity investigation skills.
+- Explore web, cloud, Linux, and network security scenarios.
+- Understand vulnerabilities, attack paths, and root causes.
+- Practice technical analysis and evidence-based reporting.
+- Develop problem-solving skills through hands-on security challenges.
+- Document practical learning in a structured portfolio.
 
 ---
 
-# 🎯 Objectives
+## 🏆 Challenge Completion
 
-- Strengthen practical cybersecurity skills
-- Learn secure web, cloud, Linux, and network architectures
-- Improve vulnerability analysis and reporting
-- Build a professional cybersecurity portfolio
-- Prepare for internships and cybersecurity careers
+- ✅ All 8 HH2026 case studies completed.
+- ✅ HH2026 completion certificate received.
+- ✅ Technical exercises and investigation notes documented.
+- ✅ Certificate achievement shared on LinkedIn.
 
 ---
 
-# 📂 HH2026 Case Studies
+## 📂 HH2026 Case Studies
 
 | Case Study | Category | Key Concepts | Status |
 |---|---|---|---|
@@ -46,15 +56,15 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 ---
 
-# 🛠️ Skills Practiced
+## 🛠️ Skills Practiced
 
-## 🌐 Web Security
+### 🌐 Web Security
 
 - Information Disclosure
 - Source Code Analysis
 - Git Repository Exposure
 - Sensitive Information Discovery
-- Authentication & Session Analysis
+- Authentication and Session Analysis
 - NoSQL Injection
 - Authentication Bypass
 - Server-Side Template Injection (SSTI)
@@ -65,12 +75,9 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - API Security
 - HTTP Request Analysis
 - Client/Server Trust Analysis
-- Reward Mechanism Testing
 - Replay Testing
 
----
-
-## ☁️ Cloud Security
+### ☁️ Cloud Security
 
 - AWS Cognito Identity Pools
 - AWS Security Token Service (STS)
@@ -81,9 +88,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Broken Access Control
 - Principle of Least Privilege
 
----
-
-## 🐧 Linux Security
+### 🐧 Linux Security
 
 - Linux Enumeration
 - User Enumeration
@@ -96,9 +101,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Debugger/Inspector Enumeration
 - Root Privilege Escalation
 
----
-
-## 🌐 Network Security
+### 🌐 Network Security
 
 - Wireshark
 - Packet Capture (PCAP) Analysis
@@ -107,9 +110,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - HTTP Object Extraction
 - Network Traffic Investigation
 
----
-
-## 🔬 Malware Analysis
+### 🔬 Malware Analysis
 
 - Python Code Review
 - Malware Traffic Analysis
@@ -117,9 +118,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Base64 Decoding
 - XOR Cryptanalysis
 
----
-
-## 🕵️ OSINT
+### 🕵️ OSINT
 
 - Open Source Intelligence
 - Email Enumeration
@@ -130,9 +129,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Search Engine Intelligence Gathering
 - Information Correlation
 
----
-
-## 📄 Security Assessment
+### 📄 Security Assessment and Reporting
 
 - Enumeration
 - Intelligence Gathering
@@ -141,7 +138,7 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 - Risk Assessment
 - Business Impact Analysis
 - Security Documentation
-- Professional Reporting
+- Technical Reporting
 - Attack Chain Analysis
 - Privilege Escalation Analysis
 - Business Logic Analysis
@@ -150,13 +147,12 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 ---
 
-# 🧰 Tools Used
+## 🧰 Tools and Technologies Used
 
 - Kali Linux
 - Nmap
 - Gobuster
-- Burp Suite
-- Burp Suite Repeater
+- Burp Suite and Burp Suite Repeater
 - Wireshark
 - Git
 - AWS CLI
@@ -180,90 +176,62 @@ Each case study represents a practical cybersecurity scenario that strengthens b
 
 ---
 
-# 🎓 Current Learning Roadmap
+## 📚 Learning Roadmap
+
+### Completed
 
 - ✅ Cybersecurity 101
-- 🔄 HH2026 Practical Labs
+- ✅ HH2026 – All 8 Case Studies
+- ✅ Networking Fundamentals
+- ✅ Linux Fundamentals
+
+### Continuing to Develop
+
 - 🔄 TryHackMe Learning Paths
-- 🔄 Networking Fundamentals
-- 🔄 Linux Fundamentals
+- 🔄 SOC Analyst Learning Path
+- 🔄 Security Monitoring and Event Investigation
+- 🔄 Detection Engineering Fundamentals
+- 🔄 Threat Hunting Fundamentals
+- 🔄 Active Directory Security
 - 🔄 Cloud Security
-- 🔄 Active Directory
-- 🔄 Capture The Flag (CTFs)
-- ⏳ SOC Analyst Path
-- ⏳ Detection Engineering
-- ⏳ Threat Hunting
+- 🔄 Capture The Flag Challenges
 
 ---
 
-# 🚀 Current Progress
-
-- ✅ **8 HH2026 Case Studies Completed**
-- ✅ Web Security
-- ✅ Cloud Security
-- ✅ Source Code Security
-- ✅ Linux Privilege Escalation
-- ✅ Network Forensics
-- ✅ Git Exposure Analysis
-- ✅ AWS IAM Assessment
-- ✅ Linux Enumeration & Systemd Analysis
-- ✅ OSINT Investigation
-- ✅ Email & Identity Correlation
-- ✅ NoSQL Injection
-- ✅ EJS SSTI
-- ✅ Node.js Security
-- ✅ Node.js Inspector Enumeration
-- ✅ Business Logic Testing
-- ✅ API Security
-- ✅ Client/Server Trust Analysis
-- 🔄 Continuing Practical Labs Daily
-
----
-
-# 📊 Progress Snapshot
+## 📊 Challenge Progress
 
 | Category | Status |
 |---|---|
 | HH2026 Case Studies | ✅ 8 Completed |
-| Web Security | ✅ |
-| Cloud Security | ✅ |
-| Source Code Security | ✅ |
-| Linux Privilege Escalation | ✅ |
-| Network Forensics | ✅ |
-| Git Exposure Analysis | ✅ |
-| AWS IAM Assessment | ✅ |
-| Linux Enumeration | ✅ |
-| OSINT | ✅ |
-| NoSQL Injection | ✅ |
-| SSTI | ✅ |
-| Node.js Security | ✅ |
-| Business Logic | ✅ |
-| API Security | ✅ |
-| Practical Labs | 🔄 Ongoing |
-| GitHub Portfolio | 🔄 Growing |
-| LinkedIn Project Posts | 🔄 Ongoing |
+| Web Security | ✅ Practiced |
+| Cloud Security | ✅ Practiced |
+| Source Code Security | ✅ Practiced |
+| Linux Privilege Escalation | ✅ Practiced |
+| Network Forensics | ✅ Practiced |
+| AWS IAM Assessment | ✅ Practiced |
+| OSINT Investigation | ✅ Practiced |
+| NoSQL Injection | ✅ Practiced |
+| SSTI | ✅ Practiced |
+| Node.js Security | ✅ Practiced |
+| Business Logic Testing | ✅ Practiced |
+| API Security | ✅ Practiced |
+| Practical Learning | 🔄 Ongoing |
+| Portfolio Development | 🔄 Ongoing |
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
 HH2026/
 │
 ├── HH2026-CS01-The-Concierge-Knows-Too-Much/
-│
 ├── HH2026-CS02-The-Hidden-Repository/
-│
 ├── HH2026-CS03-Complimentary/
-│
 ├── HH2026-CS04-Packed-Light/
-│
 ├── HH2026-CS05-Beach-Bar/
-│
 ├── HH2026-CS06-Overheard-at-Breakfast/
-│
 ├── HH2026-CS07-Do-Not-Disturb/
-│
 ├── HH2026-CS08-Towel-on-the-Sunbed/
 │
 └── README.md
@@ -271,74 +239,45 @@ HH2026/
 
 ---
 
-# 📈 Portfolio Goals
+## 🚀 Professional Development Focus
 
-This repository documents my journey toward becoming a cybersecurity professional through practical labs, real-world attack scenarios, and structured case studies.
+My primary career interest is **Blue Team and Security Operations**, with a focus on developing practical skills in:
 
-My focus is on continuously improving my:
+- Security Monitoring
+- Log Analysis
+- Threat Investigation
+- Incident Response Fundamentals
+- Network Traffic Analysis
+- Detection and Investigation Methodologies
 
-- Offensive Security Skills
-- Defensive Security Knowledge
-- Linux Administration
-- Cloud Security
-- Web Application Security
-- OSINT
-- Network Security
-- API Security
-- Business Logic Testing
-- Security Documentation
-- Incident Investigation
-- Practical Problem Solving
+My additional practical learning areas include web application security, cloud security, Linux security, OSINT, and API security.
 
 ---
 
-# 🏆 Career Focus
-
-Current focus areas include:
-
-- Security Operations Center (SOC)
-- Blue Team Operations
-- Detection Engineering
-- Threat Hunting
-- Incident Response
-- Cloud Security
-- Linux Security
-- Network Security
-- Web Application Security
-- API Security
-- Business Logic Security
-- OSINT
-
----
-
-# 📚 Learning Platforms
+## 📚 Learning Platforms
 
 - TryHackMe
-- Hack The Box (Upcoming)
 - GitHub Projects
 - LinkedIn Technical Portfolio
 - Cybersecurity Webinars
-- Practical Labs
+- Practical Security Labs
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
-## **Samyuktha Saravanan**
+### Samyuktha Saravanan
 
-Cybersecurity Learner | Linux Security | Cloud Security | Network Security | Web Security | OSINT | TryHackMe | HH2026 Participant
+**AI & ML Graduate | Cybersecurity | Blue Team & Security Operations**
 
-### 🔗 Connect with Me
-
-- 💻 GitHub: https://github.com/samyuktha200512-ops
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+GitHub: [samyuktha200512-ops](https://github.com/samyuktha200512-ops)
 
 ---
 
 > **Disclaimer**
 >
-> This repository is created for **educational purposes only**. All case studies are based on intentionally vulnerable laboratory environments provided for cybersecurity learning. No real-world systems were targeted.
+> This repository is created for educational purposes. All case studies are based on intentionally vulnerable laboratory environments provided for cybersecurity learning. No real-world systems were targeted.
 
 ---
 
-> *Part of my Hacker Holidays 2026 cybersecurity portfolio documenting practical hands-on investigations and professional case studies.*
+*Part of my Hacker Holidays 2026 cybersecurity portfolio, documenting eight completed practical investigations and technical case studies.*
